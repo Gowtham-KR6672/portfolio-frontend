@@ -52,7 +52,7 @@ const Home = () => {
                 {/* Left Side: Text & Buttons */}
                 <div className="hero-text-container" style={{ flex: 1, textAlign: 'left' }}>
                     <h1 className="neon-text hero-title" style={{ fontSize: '4.5rem', marginBottom: '15px', lineHeight: '1.1' }}>Gowtham K R</h1>
-                    <p className="hero-subtitle" style={{ fontSize: '2rem', color: 'var(--text-color)', marginBottom: '40px' }}>Full Stack Developer</p>
+                    <p className="hero-subtitle" style={{ fontSize: '2rem', color: 'var(--text-color)', marginBottom: '40px' }}>Process Associate</p>
 
                     <div className="hero-buttons" style={{ display: 'flex', gap: '20px', flexWrap: 'wrap' }}>
                         <a href="#contact" className="glass-panel btn-contact" style={{ padding: '15px 35px', fontWeight: 'bold', fontSize: '1.2rem', borderRadius: '30px', textDecoration: 'none', display: 'inline-block' }}>
